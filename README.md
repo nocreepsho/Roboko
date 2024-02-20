@@ -1,3 +1,10 @@
+## ROBOKO is a fictional Robot Rental Company
+
+I created this project to demonstrate brand design and frontend web design a this fake company.
+
+All 3D assets are made using SplineJS. Animations and transitions were added using Framer-motion.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
