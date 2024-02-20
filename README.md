@@ -1,6 +1,6 @@
 ## ROBOKO is a fictional Robot Rental Company
 
-![logo]('https://github.com/nocreepsho/Roboko/blob/master/logo.jpg')
+<img src="logo.jpg" alt="logo" width="300px" height="156px" />
 
 I created this project to demonstrate brand design and frontend web design a this fake company.
 
