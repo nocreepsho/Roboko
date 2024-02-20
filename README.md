@@ -1,5 +1,7 @@
 ## ROBOKO is a fictional Robot Rental Company
 
+<img src='/logo.jpg'/>
+
 I created this project to demonstrate brand design and frontend web design a this fake company.
 
 All 3D assets are made using SplineJS. Animations and transitions were added using Framer-motion.
