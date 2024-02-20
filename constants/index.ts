@@ -61,7 +61,7 @@ export const robots = [
   },
   {
     name: "Stevie",
-    image: "/assets/robots/stivi.jpg",
+    image: "/assets/robots/stevie.jpg",
     price: 20,
     desc: 'Stevie can help with deliveries. It can deliver packages, and even help you with the delivery of food. It is a great companion for your business.'
   },
