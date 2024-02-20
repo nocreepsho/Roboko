@@ -123,19 +123,19 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center mt-24 md:mt-32">
             <div className="flex flex-col w-full md:flex-row justify-around items-center">
               <motion.div
-                initial={{ opacity: 0, y: 100 }}
-                whileInView={{ opacity: 1, y: 0 }}
+                initial={{ opacity: 0}}
+                whileInView={{ opacity: 1 }}
                 viewport={{ once: true }}
-                transition={{ ease: "easeInOut", type: "spring", stiffness: 150, damping: 24, duration: 0.8, delay: 1.0 }}
+                transition={{ ease: "easeInOut", type: "spring", stiffness: 150, damping: 24, duration: 0.8, delay: 0.8 }}
                 className="flex flex-col items-center">
                 <Spline scene="https://prod.spline.design/bVOlNOXr7SJj5ffC/scene.splinecode" />
                 <h2 className="text-2xl md:text-4xl font-bold  mt-5">Credit/Debit cards</h2>
               </motion.div>
               <motion.div
-                initial={{ opacity: 0, y: 100 }}
-                whileInView={{ opacity: 1, y: 0 }}
+                initial={{ opacity: 0, }}
+                whileInView={{ opacity: 1 }}
                 viewport={{ once: true }}
-                transition={{ ease: "easeInOut", type: "spring", stiffness: 150, damping: 24, duration: 0.8, delay: 1.5 }}
+                transition={{ ease: "easeInOut", type: "spring", stiffness: 150, damping: 24, duration: 0.8, delay: 1.0 }}
                 className="flex flex-col items-center">
                 <Spline scene="https://prod.spline.design/p84JwN6AQoYi7eQ7/scene.splinecode" />
                 <h2 className="text-2xl md:text-4xl font-bold  mt-5">Bitcoin</h2>
