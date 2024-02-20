@@ -53,9 +53,9 @@ const Footer = () => {
         </div>
 
         <div className="w-full flex flex-col items-center justify-center">
-          <Link href="/">
+          <a href="https://github.com/nocreepsho/Roboko" target="_blank" rel="noopener noreferrer">
           <Image src="/assets/icons-github.svg" alt="Github" width={32} height={32} />
-          </Link>
+          </a>
           <span className="font-medium">Made with ❤️ by <Link href="/" className="underline decoration-dotted">Shobhit</Link></span>
         </div>
 
