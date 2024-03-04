@@ -2,7 +2,7 @@
 
 <img src="logo.jpg" alt="logo" width="300px" height="156px" />
 
-I created this project to demonstrate brand design and frontend web design a this fake company.
+I created this project to demonstrate brand design and frontend web design for a fake robot rental company
 
 ## Technologies Used:
 - Typescript
